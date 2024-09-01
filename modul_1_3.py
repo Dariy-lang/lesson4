@@ -1,0 +1,9 @@
+name='Dariy'
+print(name)
+age=24
+print(age)
+age=24+25
+print(type(str(age)))
+print(age)
+is_student='True'
+print(is_student)
